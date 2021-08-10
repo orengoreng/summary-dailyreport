@@ -37,7 +37,7 @@ refer to the `application.yml` for the h2db access and folders setting.
 
 
 ## GitHub
-Check [vehicle_registration](https://github.com/orengoreng/summary-dailyreport) for code updates.
+Check [summary-dailyreport](https://github.com/orengoreng/summary-dailyreport) for code updates.
 
 
 
